@@ -1,0 +1,78 @@
+{
+  "project_info": {
+    "project_number": "897294285219",
+    "project_id": "million-mart-41c54",
+    "storage_bucket": "million-mart-41c54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897294285219:android:d8c0e25e8236c931cec216",
+        "android_client_info": {
+          "package_name": "com.millionmart.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "897294285219-cg63r048a09cbjovadjr480auj6adjeo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.millionmart.android",
+            "certificate_hash": "6ff6dcea2869282d8edaabc41d0df1e54b57af90"
+          }
+        },
+        {
+          "client_id": "897294285219-kf5js07j7tbdke3r2s01u5tfl852deec.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.millionmart.android",
+            "certificate_hash": "b82bab3cbf8d2ed4b5bf521b0bb1b752113087b5"
+          }
+        },
+        {
+          "client_id": "897294285219-m64een8mk0pfe70724hnvteaag1j7pm4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.millionmart.android",
+            "certificate_hash": "9b88273d2fcc81c99f302f4e0d6ddee579aa8887"
+          }
+        },
+        {
+          "client_id": "897294285219-uah2glqfa1kki8i9eglnhvks2j2srj9f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.millionmart.android",
+            "certificate_hash": "a1545b4e6f1e646c7885adc8878a1be9347162df"
+          }
+        },
+        {
+          "client_id": "897294285219-q7bt1ep70tmo1giakgvnd921aedcienp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg9SrZADOJ8hxt-AexjSzbwhr7_GRqvcQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "897294285219-q7bt1ep70tmo1giakgvnd921aedcienp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "897294285219-i60u2uf7lakuj9qrpsupea0rhdq3jt5b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.millionmart.ios"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

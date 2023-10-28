@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>897294285219-i60u2uf7lakuj9qrpsupea0rhdq3jt5b.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.897294285219-i60u2uf7lakuj9qrpsupea0rhdq3jt5b</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>897294285219-m64een8mk0pfe70724hnvteaag1j7pm4.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB8XyluwW55TVQsbSs3xy2QxqTXAI2lkis</string>
+	<key>GCM_SENDER_ID</key>
+	<string>897294285219</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.millionmart.ios</string>
+	<key>PROJECT_ID</key>
+	<string>million-mart-41c54</string>
+	<key>STORAGE_BUCKET</key>
+	<string>million-mart-41c54.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:897294285219:ios:cff1815e804c7f95cec216</string>
+</dict>
+</plist>

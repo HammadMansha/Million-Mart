@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="468e1d1d-2271-4718-8cc2-5bf771c23572" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build.gradle" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1zUUnT3hUmg4VcSjOkCPuHLLMT1" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/MillionMart/Screen/User/ProductDetail" />
+    <property name="settings.editor.selected.configurable" value="nele.options" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\Documents\GitHub\millionmart-mobile-flutter2\lib\MillionMart\Screen\User\ProductDetail" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\Documents\GitHub\millionmart-mobile-flutter2\assets\svgs" />
+      <recent name="C:\Users\HP\Documents\GitHub\millionmart-mobile-flutter2\assets\image" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Flutter.main.dart">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="C:/Users/HP/Documents/GitHub/millionmart-mobile-flutter2/android/app/build.gradle" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/android/app/build.gradle" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="gradlew" type="ShConfigurationType" temporary="true">
+      <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
+      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/android/gradlew" />
+      <option name="SCRIPT_OPTIONS" value="" />
+      <option name="INDEPENDENT_SCRIPT_WORKING_DIRECTORY" value="true" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$/android" />
+      <option name="INDEPENDENT_INTERPRETER_PATH" value="true" />
+      <option name="INTERPRETER_PATH" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Shell Script.gradlew" />
+        <item itemvalue="Gradle.C:/Users/HP/Documents/GitHub/millionmart-mobile-flutter2/android/app/build.gradle" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="468e1d1d-2271-4718-8cc2-5bf771c23572" name="Default Changelist" comment="" />
+      <created>1634202326244</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1634202326244</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="409" y="0" key="#C:/Users/HP/Documents/GitHub/millionmart-mobile-flutter2/android/app/build.gradle_(1)" timestamp="1643976091406">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="409" y="0" key="#C:/Users/HP/Documents/GitHub/millionmart-mobile-flutter2/android/app/build.gradle_(1)/0.0.1536.824@0.0.1536.824" timestamp="1643976091406" />
+    <state x="93" y="93" width="1350" height="638" key="AVDManager" timestamp="1646051380196">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="AVDManager/0.0.1536.824@0.0.1536.824" timestamp="1646051380196" />
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1642677215294">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1642677215294" />
+    <state width="1491" height="343" key="GridCell.Tab.0.bottom" timestamp="1646891544830">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="343" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1646891544830" />
+    <state width="1491" height="343" key="GridCell.Tab.0.center" timestamp="1646891544830">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="343" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1646891544830" />
+    <state width="1491" height="343" key="GridCell.Tab.0.left" timestamp="1646891544830">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="343" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1646891544830" />
+    <state width="1491" height="343" key="GridCell.Tab.0.right" timestamp="1646891544830">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="343" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1646891544830" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1638448110422">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1638448110422" />
+    <state x="347" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1639047835861">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="347" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1639047835861" />
+    <state x="476" y="129" width="584" height="628" key="find.popup" timestamp="1643982657407">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="476" y="129" width="584" height="628" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1643982657407" />
+    <state x="194" y="190" key="run.anything.popup" timestamp="1646144816023">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="194" y="190" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1646144816023" />
+    <state x="315" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1642674878803">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="315" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1642674878803" />
+    <state x="491" y="317" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1642512469161">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="491" y="317" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1536.824@0.0.1536.824" timestamp="1642512469161" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/MillionMart/widget/ManagerDialog.dart</url>
+          <line>146</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

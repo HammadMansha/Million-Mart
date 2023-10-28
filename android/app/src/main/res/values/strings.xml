@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Million Mart</string>
+  <string name="facebook_app_id">354068149494830</string>
+  <string name="fb_login_protocol_scheme">fb354068149494830</string>
+</resources>
